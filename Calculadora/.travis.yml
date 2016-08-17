@@ -3,3 +3,14 @@ sudo: false # faster builds
 
 after_success:
 - bash <(curl -s https://codecov.io/bash)
+
+language: java
+jdk:
+  - oraclejdk8
+script:
+  - sbt $Build.xml
+env:
+  - TASKS='test'
+notifications:
+  email:
+    - georgina.estrada78@gmail.com
