@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-﻿language: java
-sudo: false # faster builds
 
-after_success:
-- bash <(curl -s https://codecov.io/bash)
-=======
 language: java
 jdk:
   - oraclejdk8
@@ -15,4 +9,4 @@ env:
 notifications:
   email:
     - georgina.estrada78@gmail.com
->>>>>>> refs/remotes/origin/master
+
