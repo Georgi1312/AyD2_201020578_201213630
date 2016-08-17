@@ -1,12 +1,2 @@
-
 language: java
-jdk:
-  - oraclejdk8
-script:
-  - sbt $Build.xml
-env:
-  - TASKS='test'
-notifications:
-  email:
-    - georgina.estrada78@gmail.com
-
+script: ant main
