@@ -5,6 +5,9 @@
         <group>
             <file>file:/C:/Users/Montenegro/Documents/NetBeansProjects/Calculadora/src/calculadora/Interfaz_Calculadora.java</file>
             <file>file:/C:/Users/Montenegro/Documents/NetBeansProjects/Calculadora/src/calculadora/Operaciones.java</file>
+            <file>file:/C:/Users/Montenegro/Documents/NetBeansProjects/Calculadora/test/calculadora/CalculadoraITSuite.java</file>
+            <file>file:/C:/Users/Montenegro/Documents/NetBeansProjects/Calculadora/test/calculadora/OperacionesIT.java</file>
+            <file>file:/C:/Users/Montenegro/Documents/NetBeansProjects/Calculadora/test/calculadora/Interfaz_CalculadoraIT.java</file>
         </group>
     </open-files>
 </project-private>
